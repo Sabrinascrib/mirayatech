@@ -1,12 +1,14 @@
  
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/woman-technologist-medium-skin-tone_1f469-1f3fd-200d-1f4bb.png" width="38px" />   Miraya Tech
+## Hi, I'm Miraya &nbsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" width="30px" />
   
   
-**`There’s no elevator to success. You have to take the stairs.`**  
+### Glad to see you here! 
 
 **🎓 - I'm self-taught Frontend Developer**  <br />
+
 **📝 - I'm currently building a <a href="https://github.com/mirayatech/Boruto">blog application</a>** <br /> 
-**💙 - My passion is building beautiful user interfaces and experiences** <br />
+
+**💙 - My passion is building beautiful user interfaces and experiences** <br /> 
  
  <a href="https://mirayatech.vercel.app/" target="_blank"> <img
     src="https://img.shields.io/badge/Personal Protfolio-1976D2?style=for-the-badge& logoColor=white"
@@ -35,7 +37,7 @@
  #
  
  <details>
- <summary><h3> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/rocket_1f680.png" width="25px"/>&nbsp; Miraya's Coding Journey</h3></summary>
+ <summary><h3> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/woman-technologist-medium-skin-tone_1f469-1f3fd-200d-1f4bb.png" width="25px" />&nbsp; Miraya's Coding Journey</h3></summary>
  I’m Miraya, a 19 year old self-taught Frontend Developer. I found my passion in coding after discovering my brother doing it in 2020. 
 I fell in love with the craft of being able to use my creativity to build stuff for the web. I'm really driven to learn and reach new heights in my software development career. It still fascinates me till today how software has enabled us human beings to do so many things. If I’m not doing anything coding related, I enjoy working out, reading, and drawing.
 
