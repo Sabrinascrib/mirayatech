@@ -1,15 +1,7 @@
  
 ## Hi, I'm Miraya &nbsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" width="30px" />
   
-  
-### Glad to see you here! 
-
-**🎓 - I'm self-taught Frontend Developer**  <br />
-
-**📝 - I'm currently building a <a href="https://github.com/mirayatech/Boruto">blog application</a>** <br /> 
-
-**💙 - My passion is building beautiful user interfaces and experiences** <br /> 
- 
+   
  <a href="https://mirayatech.vercel.app/" target="_blank"> <img
     src="https://img.shields.io/badge/Personal Protfolio-1976D2?style=for-the-badge& logoColor=white"
    width="150px"
@@ -21,6 +13,13 @@
     alt="Twitter"
     src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
    width="105px" /></a>
+
+ 
+**🎓 - I'm self-taught Frontend Developer**  <br />
+
+**📝 - I'm currently building a <a href="https://github.com/mirayatech/Boruto">blog application</a>** <br /> 
+
+**💙 - My passion is building beautiful user interfaces and experiences** <br /> 
 
 ---
 
