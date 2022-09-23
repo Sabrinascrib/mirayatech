@@ -30,7 +30,7 @@
 #
 
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/bar-chart_1f4ca.png" width="25px"/>&nbsp; Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirayatech&theme=vue"/> <img src="https://c.tenor.com/7oNk7m1KB5IAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="685px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirayatech&theme=vue"/> 
 
  #
  
